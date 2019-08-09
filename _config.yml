@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Deep Gopani"
-  avatar : "/assets/images/deep.jpg.jpg"
+  avatar : "/assets/images/deep.jpg"
   bio    : "Founder of Capstone Alpha Partners"
 
 defaults:
