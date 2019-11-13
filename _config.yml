@@ -59,7 +59,12 @@ author:
   name   : "Deep Gopani"
   avatar : "/assets/images/deep.jpg"
   bio    : "Founder of Capstone Alpha Partners"
-  linkedin: https://www.linkedin.com/company/48378607
+  links:
+    - label: Linkedin
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/48378607/"
+    
+    
 
 defaults:
   # _posts
