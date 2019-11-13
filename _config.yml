@@ -60,7 +60,7 @@ author:
   avatar : "/assets/images/deep.jpg"
   bio    : "Founder of Capstone Alpha Partners"
   links:
-    - label: Linkedin
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/company/48378607/"
     
@@ -92,3 +92,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
