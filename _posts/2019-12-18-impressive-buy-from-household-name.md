@@ -1,4 +1,3 @@
-
 ---
 author: Deep Gopani
 title: An Impressive Buy from a Household Name
@@ -12,7 +11,6 @@ This is without mentioning HelloSign’s integration into DBX’s software, whic
 
 DBX hit an all-time low on 12/13/19, more than 20% below the IPO about 20 months ago. This was following the Chief Customer Officer’s announcement of resignation on 12/10, being the third Chief level executive to leave since the IPO. While this may not substantiate the $450 million drop in market cap in the days following the resignation announcement, it is understandable that investors are apprehensive about such management changes. 
 
-The main reason for DBX’s falling share price in recent months can be attributed to its revenue growth rate. In Q2’19, DBX reported a growth rate of ~19%, continuing a deceleration from 40% to 31% in 2017 and 2018, respectively. Bears believed this marked a continued decrease in growth, but were proven wrong by Q3’19, which showed the first revenue acceleration since the start of its declining growth rate in 2017. That quarter, revenues hit $428.2 million, beating the Street estimates.  
+The main reason for DBX’s falling share price in recent months can be attributed to its revenue growth rate. In Q2’19, DBX reported a growth rate of ~19%, continuing a deceleration from 40% to 31% in 2017 and 2018, respectively. Bears believed this marked a continued decrease in growth, but were proven wrong by Q3’19, which showed the first revenue acceleration since the start of its declining growth rate in 2017. That quarter, revenues hit $428.2 million, beating the Street estimates. 
 
 At ~$17/share, DBX is trading around 3.3X forward revenues (excluding excess cash), despite generating nearly 20% in FCF margin.  With a strong balance sheet (cash of over $1B and no debt), over 14 million paying accounts (up from 12 million accounts a year ago), and over 600 million registered users, DBX is operating at an enormous scale, giving it a huge competitive moat. While the giants focus on their own ecosystems, DBX provides a smart workspace that allows users to navigate through all the giants’ territories on a single platform.  As DBX’s strategy gains traction and its growth rate stabilizes in the 15-20% range, its multiple should climb to ~5X forward revenues, translating to a 60%-100% gain in stock price.
-
